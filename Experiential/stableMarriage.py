@@ -13,7 +13,6 @@ males = [
     {
         "name": "A",
         "is_free": True,
-        "gender": "male",
         "preferences": ["L", "J", "K", "M"],
         "engaged_to": "",
         "proposed_to":[],
@@ -21,7 +20,6 @@ males = [
     {
         "name": "B",
         "is_free": True,
-        "gender": "male",
         "preferences": ["J", "M", "L", "K"],
         "engaged_to": "",
         "proposed_to":[],
@@ -37,7 +35,6 @@ males = [
     {
         "name": "D",
         "is_free": True,
-        "gender": "male",
         "preferences": ["M", "K", "J", "L"],
         "engaged_to": "",
         "proposed_to":[],
@@ -48,7 +45,6 @@ females = [
     {
         "name": "J",
         "is_free": True,
-        "gender": "female",
         "preferences": ["A", "D", "C", "B"],
         "engaged_to": "",
         "proposed_to":[],
@@ -56,7 +52,6 @@ females = [
     {
         "name": "K",
         "is_free": True,
-        "gender": "female",
         "preferences": ["A", "B", "C", "D"],
         "engaged_to": "",
         "proposed_to":[],
@@ -64,7 +59,6 @@ females = [
     {
         "name": "L",
         "is_free": True,
-        "gender": "female",
         "preferences": ["B", "D", "C", "A"],
         "engaged_to": "",
         "proposed_to":[],
@@ -72,7 +66,6 @@ females = [
     {
         "name": "M",
         "is_free": True,
-        "gender": "female",
         "preferences": ["C", "A", "B", "D"],
         "engaged_to": "",
         "proposed_to":[],
