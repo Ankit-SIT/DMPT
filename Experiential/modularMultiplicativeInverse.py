@@ -1,3 +1,7 @@
+# Ankit Das
+# 19070122023
+# Modular Multiplicative Inverse
+
 #! /usr/bin/env python
 # modular multiplicative inverse of a mod m is a number which when multiplied with a gives a result of 1 mod m
 
